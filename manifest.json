@@ -1,8 +1,8 @@
 {
-  "domain": "senssun_scale",
-  "name": "Senssun Body Scale",
+  "domain": "insmart_thermometer",
+  "name": "INSMART Thermometer",
   "config_flow": true,
-  "documentation": "https://github.com/mukowman/ha-ble-senssun-scale",
+  "documentation": "https://github.com/mukowman/ha-ble-insmart-thermometer",
   "dependencies": ["bluetooth"],
   "codeowners": ["@mukowman"],
   "requirements": ["bleak"],
