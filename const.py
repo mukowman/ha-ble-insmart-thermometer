@@ -1,2 +1,2 @@
-"""Constants for the Senssun Body Scale integration."""
-DOMAIN = "senssun_scale"
+"""Constants for the INSMART Thermometer integration."""
+DOMAIN = "insmart_thermometer"
