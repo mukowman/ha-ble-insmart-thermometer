@@ -10,7 +10,7 @@ import struct
 _LOGGER = logging.getLogger(__name__)
 
 # Notify characteristic for the thermometer
-NOTIFY_CHAR = "0000fff1-0000-1000-8000-00805f9b34fb"
+NOTIFY_CHAR = "0000ff01-0000-1000-8000-00805f9b34fb"
 
 async def async_setup_entry(hass, config_entry, async_add_entities):
     """Set up the INSMART Thermometer sensor from a config entry."""
